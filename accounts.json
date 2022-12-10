@@ -1,0 +1,24 @@
+{
+    "l": {
+        "name": "l",
+        "menu": [
+            "latte"
+        ],
+        "cost": 35
+    },
+    "ll": {
+        "name": "ll",
+        "menu": [],
+        "cost": 0
+    },
+    "latte": {
+        "name": "latte",
+        "menu": [],
+        "cost": 0
+    },
+    "kk": {
+        "name": "kk",
+        "menu": [],
+        "cost": 0
+    }
+}
