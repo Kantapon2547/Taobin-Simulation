@@ -11,17 +11,17 @@ And it calculates the inserted bahts and gives back change if there is any.
 ## Program Overview and Features
 This is a program for Taobin simulation. When you run the program, the menu guide page in the beverage machine will appear.
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 And after that, there will be a program asking if you want to turn off the machine; if so, just input the word "off," and the machine will shut down.
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 If you want to order a drink, you can input your name, then order the drink you want, and when you finish ordering 
 the menu you want, when you enter "quit," the program will break. and finish the order. It will then report the menu and 
 the price of the menu item you just ordered.
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 ## Program's Requirement
 
